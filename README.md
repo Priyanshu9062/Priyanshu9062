@@ -2,7 +2,7 @@
 <img src = "https://31.media.tumblr.com/cfbe9b4ae197c848e0463d279deeba14/tumblr_mrczc9M2AE1sqy5fio1_500.gif"/>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://instagram.com/ig_priyanshu9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig_priyanshu9" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/priyanshu9062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyanshu9062" height="30" width="40" /></a>
