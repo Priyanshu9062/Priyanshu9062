@@ -1,4 +1,4 @@
-[![Banner](https://raw.githubusercontent.com/Ayush-Baliyan-19/Ayush-Baliyan-19/main/Github_Banner.png)]((https://www.linkedin.com/in/priyanshu9062/))
+[![Banner](https://raw.githubusercontent.com/Priyanshu-Biswas-19/Priyanshu/main/Github_Banner.png)]((https://www.linkedin.com/in/priyanshu9062/))
 <h1 align="center">
   <img src="GIF/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
