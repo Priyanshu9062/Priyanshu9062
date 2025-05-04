@@ -10,7 +10,7 @@
 
 <!-- Developer gif (Tenor) -->
 <p align="center">
-  <img src="https://images6.alphacoders.com/873/873666.png" width="300" alt="coding gif" />
+  <img src="https://images6.alphacoders.com/873/873666.png" width="500" alt="coding gif" />
 </p>
 
 
