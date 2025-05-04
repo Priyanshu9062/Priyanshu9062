@@ -8,10 +8,11 @@
 - 🔭 I’m currently working on **Resume Service**  
 - 📫 How to reach me **priyanshu.biswas9041@gmail.com**
 
-<!-- Optional developer-themed gif -->
+<!-- Developer gif (Tenor) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
+  <img src="https://images6.alphacoders.com/873/873666.png" width="300" alt="coding gif" />
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,6 +32,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <!-- All icons below have margin for spacing -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="margin-right:10px;" />
   </a>
